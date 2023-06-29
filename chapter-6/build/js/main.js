@@ -14,7 +14,7 @@ class Coder {
         return `Hello, I'm ${this.age}`;
     }
 }
-const Hung = new Coder('Dave', 'Rock', 42);
+const Hung = new Coder("Le", "Hung", 32);
 console.log(Hung.getAge());
 // console.log(Dave.age)
 // console.log(Dave.lang)
