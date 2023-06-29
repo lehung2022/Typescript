@@ -14,8 +14,8 @@ class Coder {
         return `Hello, I'm ${this.age}`;
     }
 }
-const Dave = new Coder('Dave', 'Rock', 42);
-console.log(Dave.getAge());
+const Hung = new Coder('Dave', 'Rock', 42);
+console.log(Hung.getAge());
 // console.log(Dave.age)
 // console.log(Dave.lang)
 class WebDev extends Coder {
