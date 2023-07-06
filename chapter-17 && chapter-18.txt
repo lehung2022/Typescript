@@ -1,0 +1,4 @@
+https://github.com/lehung2022/react-c18-shopping-cart
+=> This is Typescript chapter 17 and 18, building a shopping cart website 
+D:\Actions\react-shopping-cart
+=> This folder is linked to that github site above

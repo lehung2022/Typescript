@@ -1,0 +1,1 @@
+This chapter is just to demonstrate how Vite works. Do not worry about this one

@@ -1,0 +1,5 @@
+The path for chapter 12 is in here:
+https://github.com/lehung2022/typescript-chapter-12
+=> This is my Typescript chapter 12
+D:\Actions\typescript-project-1
+=> This folder is linked to the github Typescript chapter 12 above
